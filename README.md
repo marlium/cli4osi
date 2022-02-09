@@ -12,5 +12,7 @@ Arch:
  - sudo pacman -S nim
 
 
- - git clone https://github.com/marlium/cli4osi.git .
- - nim c -r osi.nim
+Run:
+
+  git clone https://github.com/marlium/cli4osi.git .
+  nim c -r osi.nim
