@@ -15,5 +15,4 @@ Arch:
 Run:
 
  - git clone https://github.com/marlium/cli4osi.git .
-  
  - nim c -r osi.nim
