@@ -39,14 +39,14 @@ setCursorPos(0, 0)
 
 echo "\n  ~ CLI 4 OS Installation ~ \n\n"
 echo "  Choose Operating System : \n\n"
-echo "For Arch    ENTER =>    a"
-echo "For Debian  ENTER =>    d"
-echo "For Fedora  ENTER =>    f"
-echo "For Kali    ENTER =>    k"
-echo "For Manjaro ENTER =>    j"
-echo "For Mint    ENTER =>    m"
-echo "For PopOS   ENTER =>    p" # pushin' p
-echo "For Ubuntu  ENTER =>    u"
+echo "  For Arch    ENTER =>    a"
+echo "  For Debian  ENTER =>    d"
+echo "  For Fedora  ENTER =>    f"
+echo "  For Kali    ENTER =>    k"
+echo "  For Manjaro ENTER =>    j"
+echo "  For Mint    ENTER =>    m"
+echo "  For PopOS   ENTER =>    p" # pushin' p
+echo "  For Ubuntu  ENTER =>    u"
 
 var os = readLine(stdin)
 
