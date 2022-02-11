@@ -147,3 +147,5 @@ if os == "u":
         openDefaultBrowser(ubuntu)
     if u == "lts":
         openDefaultBrowser(ubuntuLTS)
+
+# v0.1
